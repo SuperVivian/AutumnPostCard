@@ -1,0 +1,7 @@
+{
+  "tracks": [
+    { "title": "Algorithms", "artist": "Chad Crouch", "file": "music/autumn-piano-01.mp3" },
+    { "title": "Enthusiast", "artist": "Tours", "file": "music/autumn-piano-02.mp3" },
+    { "title": "Sentinel", "artist": "Kai Engel", "file": "music/autumn-piano-03.mp3" }
+  ]
+}

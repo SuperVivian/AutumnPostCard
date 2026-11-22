@@ -1,0 +1,104 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "跳到册子" [ref=e4] [cursor=pointer]:
+        - /url: "#stage"
+      - main "明信片" [ref=e6]:
+        - group "明信片" [ref=e96]:
+          - navigation "明信片":
+            - list:
+              - listitem:
+                - button "细看「枫叶猫」" [ref=e99] [cursor=pointer]
+              - listitem:
+                - button "细看「落叶野餐」" [ref=e100] [cursor=pointer]
+              - listitem:
+                - button "细看「秋日面包店」" [ref=e101] [cursor=pointer]
+              - listitem:
+                - button "细看「银杏咖啡馆」" [ref=e102] [cursor=pointer]
+              - listitem:
+                - button "细看「河畔牧羊」" [ref=e103] [cursor=pointer]
+              - listitem:
+                - button "细看「金色田野」" [ref=e104] [cursor=pointer]
+        - article "印刷版" [ref=e9]:
+          - heading "Autumn 秋" [level=2] [ref=e10]:
+            - text: Autumn
+            - generic [ref=e11]: 秋
+          - paragraph [ref=e12]: 秋天的拾遗者 · 中国 · autumn
+          - paragraph [ref=e13]: 秋天是一年最好的季节：光变短了，颜色变浓了，风也学会了慢下来。这个小站收集了十九个秋天，和十九首可以慢慢读的诗。
+          - heading "联系" [level=3] [ref=e14]
+          - list
+          - heading "明信片" [level=3] [ref=e15]
+          - list [ref=e16]:
+            - listitem [ref=e17]: "枫叶猫: 远上寒山石径斜，白云深处有人家。 停车坐爱枫林晚，霜叶红于二月花。 — 杜牧, 山间, 2025 年 10 月 5 日"
+            - listitem [ref=e18]: "落叶野餐: 孤村落日残霞，轻烟老树寒鸦，一点飞鸿影下。 青山绿水，白草红叶黄花。 — 白朴, 村落, 2025 年 10 月 8 日"
+            - listitem [ref=e19]: "秋日面包店: 早晨起来，泡一碗浓茶，向院子一坐，你也能看得到很高很高的碧绿的天色。 — 郁达夫, 故都, 2025 年 10 月 12 日"
+            - listitem [ref=e20]: "银杏咖啡馆: 秋天的阳光醇厚柔润，在建筑物顶端闪闪发光。 — 村上春树, 窗边, 2025 年 10 月 15 日"
+            - listitem [ref=e21]: "河畔牧羊: 月落乌啼霜满天，江枫渔火对愁眠。 姑苏城外寒山寺，夜半钟声到客船。 — 张继, 枫桥, 2025 年 10 月 18 日"
+            - listitem [ref=e22]: "金色田野: 马穿山径菊初黄，信马悠悠野兴长。 棠梨叶落胭脂色，荞麦花开白雪香。 — 王禹偁, 村行, 2025 年 10 月 20 日"
+            - listitem [ref=e23]: "湖畔独坐: 东皋薄暮望，徙倚欲何依。 树树皆秋色，山山唯落晖。 — 王绩, 东皋, 2025 年 10 月 23 日"
+            - listitem [ref=e24]: "枫庭石径: 枯藤老树昏鸦，小桥流水人家。 古道西风瘦马，夕阳西下，断肠人在天涯。 — 马致远, 古道, 2025 年 10 月 26 日"
+            - listitem [ref=e25]: "仰望秋空: 自古逢秋悲寂寥，我言秋日胜春潮。 晴空一鹤排云上，便引诗情到碧霄。 — 刘禹锡, 晴空, 2025 年 10 月 28 日"
+            - listitem [ref=e26]: "红叶山门: 空山新雨后，天气晚来秋。 明月松间照，清泉石上流。 — 王维, 空山, 2025 年 10 月 30 日"
+            - listitem [ref=e27]: "银杏画作: 闲来无事不从容，睡觉东窗日已红。 万物静观皆自得，四时佳兴与人同。 — 程颢, 东窗, 2025 年 11 月 2 日"
+            - listitem [ref=e28]: "秋林落叶: 萧萧梧叶送寒声，江上秋风动客情。 知有儿童挑促织，夜深篱落一灯明。 — 叶绍翁, 篱落, 2025 年 11 月 5 日"
+            - listitem [ref=e29]: "红叶舟游: 一道残阳铺水中，半江瑟瑟半江红。 可怜九月初三夜，露似真珠月似弓。 — 白居易, 江畔, 2025 年 11 月 8 日"
+            - listitem [ref=e30]: "花间跃猫: 大概我所爱的不是晚秋，是初秋，那时暄气初消，月正圆，蟹正肥，桂花皎洁。 — 林语堂, 初秋, 2025 年 11 月 11 日"
+            - listitem [ref=e31]: "秋夜灯笼: 君问归期未有期，巴山夜雨涨秋池。 何当共剪西窗烛，却话巴山夜雨时。 — 李商隐, 巴山, 2025 年 11 月 14 日"
+            - listitem [ref=e32]: "屋檐猫眠: 只有一枝梧叶，不知多少秋声！ — 张炎, 梧叶, 2025 年 11 月 16 日"
+            - listitem [ref=e33]: "银杏小熊: 秋风清，秋月明，落叶聚还散，寒鸦栖复惊。 — 李白, 月下, 2025 年 11 月 19 日"
+            - listitem [ref=e34]: "窗边读书: 在秋天，水和蓝天一样的清凉。天上微微有些白云，水上微微有些波皱。 — 老舍, 济南, 2025 年 11 月 22 日"
+            - listitem [ref=e35]: "枫叶小猫: 路边全是高高的杨树，风过处无数落叶就如一场黄金雨从天顶飘落。 — 王小波, 路边, 2025 年 11 月 25 日"
+      - complementary "Autumn" [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e38]: 秋
+          - generic [ref=e39]:
+            - heading "Autumn" [level=1] [ref=e40]
+            - paragraph [ref=e41]: 秋天的拾遗者
+            - paragraph [ref=e42]:
+              - generic [ref=e43]: 中国
+              - time [ref=e44]: 21:13
+              - generic [ref=e45]: · GMT+8
+        - paragraph [ref=e46]: 秋天是一年最好的季节：光变短了，颜色变浓了，风也学会了慢下来。这个小站收集了十九个秋天，和十九首可以慢慢读的诗。
+        - navigation "册子" [ref=e47]:
+          - list [ref=e49]:
+            - listitem [ref=e50]:
+              - link "明信片, 19 张明信片" [ref=e51] [cursor=pointer]:
+                - /url: "#postcards"
+                - generic [ref=e52]: 明信片
+                - generic [ref=e54]: "19"
+        - generic [ref=e55]:
+          - region "联系" [ref=e56]:
+            - status [ref=e58]
+          - generic [ref=e59]:
+            - button "声音 开" [pressed] [ref=e60] [cursor=pointer]:
+              - text: 声音
+              - generic [ref=e61]: 开
+            - link "文字版" [ref=e62] [cursor=pointer]:
+              - /url: /?view=text#postcards
+              - text: 文字版
+              - generic [ref=e63]: →
+      - generic [ref=e67]:
+        - generic [ref=e68]: 明信片
+        - generic [ref=e70]: Postcards · 19
+      - generic [ref=e71]:
+        - radiogroup "封面材质" [ref=e72]:
+          - generic [ref=e73]: 封面
+          - radio "磨砂" [ref=e74] [cursor=pointer]
+          - radio "布面" [checked] [ref=e77] [cursor=pointer]
+          - radio "皮面" [ref=e80] [cursor=pointer]
+        - toolbar "操作" [ref=e105]:
+          - button "上一页" [disabled] [ref=e106]: ‹
+          - generic [ref=e107]:
+            - text: 01 / 05
+            - generic [ref=e108]: 第 1 页，共 5 页
+          - button "下一页" [ref=e109] [cursor=pointer]: ›
+          - button "合上册子" [ref=e111] [cursor=pointer]: 合上
+    - generic [ref=e86]:
+      - button "⏮" [ref=e87] [cursor=pointer]
+      - button "▶" [ref=e88] [cursor=pointer]
+      - button "⏭" [ref=e89] [cursor=pointer]
+      - generic [ref=e90]: AlgorithmsChad Crouch
+      - slider [ref=e91]: "0"
+      - slider [ref=e92]: "0.8"
+    - 'button "树叶: 原叶" [ref=e94] [cursor=pointer]'
+  - tooltip

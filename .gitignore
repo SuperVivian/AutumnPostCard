@@ -1,0 +1,15 @@
+node_modules
+dist
+*.tsbuildinfo
+.DS_Store
+
+# 原始素材与本地音频，不入库
+pictures/
+words/
+public/music/*.mp3
+public/music/*.m4a
+public/music/*.ogg
+
+# 本地调试与浏览器测试产物，不入库
+*.log
+.playwright-cli/
